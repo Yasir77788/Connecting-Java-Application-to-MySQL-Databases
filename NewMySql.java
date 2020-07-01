@@ -42,7 +42,7 @@ public class NewMySql
     {
         String url       = "jdbc:mysql://localhost:3306/accounts";
         String user      = "root";
-        String password  = "MipFor#99";
+        String password  = "Password1";
 	
         // create a connection to the database
         try 
